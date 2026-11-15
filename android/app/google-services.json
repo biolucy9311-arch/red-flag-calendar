@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561139893393",
+    "project_id": "redflag-9ec5c",
+    "storage_bucket": "redflag-9ec5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561139893393:android:7a0c800ba4eeeadeaa2b30",
+        "android_client_info": {
+          "package_name": "com.example.redflag_calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561139893393-tknu81lcgc8qa634hohfjqgsfnad31hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redflag_calendar",
+            "certificate_hash": "8253e8265cff5f7e5bf0e2874002d54c530cf455"
+          }
+        },
+        {
+          "client_id": "561139893393-1ob3dbf7ourtq4qb5o007cf8n099j3li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-DuqHowHNZnoEwzTWBVit-w7j_nQpJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561139893393-1ob3dbf7ourtq4qb5o007cf8n099j3li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7048865196122338~2511845167"
+    }
+  ],
+  "configuration_version": "1"
+}
